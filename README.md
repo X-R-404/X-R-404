@@ -13,7 +13,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=FAHIM404-CYBER;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=RIMON-KHAN;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
  
 </p>
  
@@ -31,7 +31,7 @@
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
 <!--
-**FAHIM404-CYBER/FAHIM404-CYBER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**X-R-404/RIMON is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -51,20 +51,20 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/FAHIM404-CYBER/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/X-R-404/.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/FAHIM404-CYBER)
-- [![GitHub followers](https://img.shields.io/github/followers/FAHIM404-CYBER.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/X-R-404)
+- [![GitHub followers](https://img.shields.io/github/followers/X-R-404.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
 > GITHUB STATES :
 
-<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=FAHIM404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=X-R-404&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FAHIM404-CYBER&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=X-R-404&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FAHIM404-CYBER=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=X-R-404=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 <p align="left">
 
 
-<a href="https://www.facebook.com/profile.php?id=100077796256408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
-<a href="https://instagram.com/fahim_hossen26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md_niloy_48/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=()" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
+<a href="https://instagram.com/rimon9246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md_niloy_48/" height="30" width="40" /></a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FAHIM404-CYBER) <a href="https://github.com/FAHIM404-CYBER"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/X-R-404) <a href="https://github.com/X-R-404"></a>
 
 </p>
 
@@ -88,16 +88,16 @@ Here are some ideas to get you started:
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
-<a href="https://github.com/FAHIM404-CYBER/Old-2005"><img title="Old-2005" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=Old-2005&theme=chartreuse-dark"></a>
+<a href="https://github.com/X-R-404/Old-2005"><img title="Old-2005" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=Old-2005&theme=chartreuse-dark"></a>
 
 <p align="center">
-<a href="https://github.com/FAHIM404-CYBER /Indoscript"><img title="Indoscript" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=Indoscript&theme=highcontrast"></a>
+<a href="https://github.com/X-R-404/Indoscript"><img title="Indoscript" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=Indoscript&theme=highcontrast"></a>
 
 <p align="center">
-<a href="https://github.com/FAHIM404-CYBER/FILE-CLONING"><img title="FILE-CLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=FILE-CLONING&theme=midnight-purple"></a>
+<a href="https://github.com/X-R-404/FILE-CLONING"><img title="FILE-CLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=FILE-CLONING&theme=midnight-purple"></a>
 
 <p align="center">
-<a href="https://github.com/FAHIM404-CYBER/ALL-IN-ONE"><img title="ALL-IN-ONE" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=ALL-IN-ONE&theme=vision-friendly-dark"></a>
+<a href="https://github.com/X-R-404/ALL-IN-ONE"><img title="ALL-IN-ONE" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=ALL-IN-ONE&theme=vision-friendly-dark"></a>
 
 
 > DATABASE:
